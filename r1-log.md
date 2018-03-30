@@ -14,3 +14,12 @@ Today I started with jQuery and Javascript on FreeCodeCamp. I already know the b
 ⌚ 4hrs
 
 ### R1D2
+I made some progress on FreeCodeCamp and finished around 33 items. Beside that I invested some time in searching some books. I will mention them in the following days.
+
+*Articles I read today:*
+//
+
+⌚ 1hr
+
+
+### R1D3
