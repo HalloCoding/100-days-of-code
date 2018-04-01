@@ -21,3 +21,11 @@ I made some progress on FreeCodeCamp and finished around 33 items. Beside that I
 At the moment I'm not at home so I finsished [JSforCats](http://jsforcats.com) today. The site included the most basics I already knew but it was great to read.
 
 ⌚ 1hr
+
+### R1D4
+
+I started with the book [Eloquent Javascript](https://eloquentjavascript.net) and it's amazing. Beside that I tried to start the Challenge from Wes Bos, [Javascript30](https://javascript30.com). After some minutes I realized that I'm not that far and should go back to the basics. So I read some more pages in the book.
+
+⌚ 2hrs
+
+### R1D5
