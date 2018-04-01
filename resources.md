@@ -10,5 +10,5 @@
 ### Blogs
 
 ### Youtube
-* [The Morpheus](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi)
+* [The Morpheus Javascript Tutorial](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi)
 ### Podcasts
