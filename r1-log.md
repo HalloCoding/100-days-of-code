@@ -30,3 +30,9 @@ After that I watched the first five videos of a German Javascript tutorial playl
 ⌚ 2hrs
 
 ### R1D5
+
+I continued with the Youtube playlist - I'm now at 15/43. 
+
+⌚ 1hr
+
+### R1D6
