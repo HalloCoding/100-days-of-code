@@ -31,7 +31,7 @@ After that I watched the first five videos of a German Javascript tutorial playl
 
 ### R1D5
 
-I continued with the Youtube playlist - I'm now at 15/43. 
+I made progress in the the Youtube playlist - I'm now at 15/43. 
 
 ⌚ 1hr
 
