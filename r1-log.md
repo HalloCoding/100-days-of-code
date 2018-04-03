@@ -36,3 +36,9 @@ I made progress in the the Youtube playlist - I'm now at 15/43.
 ⌚ 1hr
 
 ### R1D6
+
+Continued with the playlist - now at 25/43. Sadly that was my only progress today.
+
+⌚ 1hr
+
+### R1D7
