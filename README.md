@@ -10,3 +10,5 @@ I will also try to document every article I read.
 [Here](./resources.md) I will mention courses, books, youtube channels and so on.
 
 [Here](./r1-log.md) you can check out my daily log.
+
+[My Twitter](https://twitter.com/HalloCoding)
