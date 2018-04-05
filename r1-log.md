@@ -42,3 +42,17 @@ Continued with the playlist - now at 25/43. Sadly that was my only progress toda
 ⌚ 1hr
 
 ### R1D7
+
+The first week is over. Amazing! Today I continued the playlist and I‘m at 35/43 now. Will finish it tomorrow! I learned really important things with DOM yesterday and today. Love it.
+
+⌚ 1hr
+
+### R1D8
+
+Finally finished the playlist. Now I know more about generators, yield, let, arrow functions and TypeScript. Tomorrow I will continue with FreeCodeCamp.
+
+⌚ 1hr
+
+### R1D9
+
+
