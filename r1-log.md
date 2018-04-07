@@ -54,5 +54,13 @@ Finally finished the playlist. Now I know more about generators, yield, let, arr
 ⌚ 1hr
 
 ### R1D9
+Learned more about objects and arrays. Also some more details about arrow functions. 
+
+⌚ 1hr
+
+### R1D10
+Finished Basic Javascript on FreeCodeCamp. Now I know more about loops and regular expressions. I had some problems with solving the tasks but with the hints it worked well(at the while loops / loops tasks)
+
+⌚ 2hr
 
 
