@@ -63,4 +63,8 @@ Finished Basic Javascript on FreeCodeCamp. Now I know more about loops and regul
 
 ⌚ 2hr
 
+### R1D11
+Finished Object Oriented and Functional Programming on FreeCodeCamp. Learned new things about arrays. It's amazing to see what you can do.
+The next big step is Basic Algorithm Scripting!
 
+⌚ 2hr
