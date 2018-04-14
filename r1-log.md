@@ -61,10 +61,42 @@ Learned more about objects and arrays. Also some more details about arrow functi
 ### R1D10
 Finished Basic Javascript on FreeCodeCamp. Now I know more about loops and regular expressions. I had some problems with solving the tasks but with the hints it worked well(at the while loops / loops tasks)
 
-⌚ 2hr
+⌚ 2hrs
 
 ### R1D11
 Finished Object Oriented and Functional Programming on FreeCodeCamp. Learned new things about arrays. It's amazing to see what you can do.
 The next big step is Basic Algorithm Scripting!
 
-⌚ 2hr
+⌚ 2hrs
+
+### R1D12
+Wow, I‘m not sure how I did that but I finished the first 8 challenges in Basic Algorithm scripting today. That’s amazing! The next one is „Truncate a string“, hopefully I can solve it!
+
+⌚ 1.5hrs
+
+### R1D13
+I‘m now at Caesars Cipher challenge. Extremly hard at the moment.
+
+⌚ 1hr
+
+### R1D14
+Wow, the second week. Sadly I couldn’t finish the challenge today. Maybe I was too exhausted and couldn’t think perfectly. 
+
+⌚ 1hr
+
+### R1D15
+Finished the challenge and tomorrow I will start with the random quote site.
+
+⌚ 1hr
+
+### R1D16
+Nearly finished the random quote site. Only the tweet button isn't working, the window doesn't work. Will try to search my fault tomorrow. 
+
+⌚ 2hrs
+
+### R1D17
+Finished the random quote site. Here is it:
+https://codepen.io/HalloCoding/pen/mxYwqz
+I'm not really satisfied with the design but I will redo it when I have further knowledge. I'm so glad that it works.
+
+⌚ 2hrs
