@@ -1,7 +1,7 @@
 ### Online Courses
 * [The Complete Node.js Developer Course (2nd Edition) by Andrew Mead](https://www.udemy.com/the-complete-nodejs-developer-course-2) [88/135]
 * [FreeCodeCamp](https://www.freecodecamp.org/)  [Intermediate Front End Development Projects]
-
+* [JavaScript: Getting Started](https://www.pluralsight.com/courses/javascript-getting-started) by [Mark Zamoyta] ✅
 * [JSforCats](http://jsforcats.com) ✅
 
 ### Books
