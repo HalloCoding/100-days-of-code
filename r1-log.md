@@ -95,8 +95,14 @@ Nearly finished the random quote site. Only the tweet button isn't working, the 
 ⌚ 2hrs
 
 ### R1D17
-Finished the random quote site. Here is it:
-https://codepen.io/HalloCoding/pen/mxYwqz
+Finished the [random quote site](https://github.com/HalloCoding/quotegen).
 I'm not really satisfied with the design but I will redo it when I have further knowledge. I'm so glad that it works.
 
 ⌚ 2hrs
+
+### R1D18
+Finished my second project, the [local weather app](https://github.com/HalloCoding/jqueryweather). Learned more things about jQuery here.
+
+Beside that, I started and finished [JavaScript: Getting Started](https://www.pluralsight.com/courses/javascript-getting-started) by [Mark Zamoyta] on Pluralsight. Good day!
+
+⌚ 5hrs
