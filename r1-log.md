@@ -106,3 +106,53 @@ Finished my second project, the [local weather app](https://github.com/HalloCodi
 Beside that, I started and finished [JavaScript: Getting Started](https://www.pluralsight.com/courses/javascript-getting-started) by [Mark Zamoyta] on Pluralsight. Good day!
 
 ⌚ 5hrs
+
+### R1D19
+
+Finished the basic construction of the wikipedia viewer. Beside that, I watched a Pluralsight course. 
+
+⌚ 1hr
+
+### R1D20
+
+Today I started on creating my first telegram bot. Spend around 3 hrs reading the Telegraf docs. Will upload the result in some days/weeks.
+
+⌚ 3hrs
+
+### R1D21
+
+Learned a lot about Telegraf. Beside that I added the jQuery function for the random wikipedia page - was extremly easy, it works. Next task at this project would be to handle the search input ... after that I have to display it! 
+
+⌚ 3hrs
+
+### R1D22
+
+Had a stressful day today so I just watched some more episodes in the Pluralsight Javascript course.
+
+⌚ 1hr
+
+### R1D23
+
+Made some progress with the wikipedia viewer. The submit button is working now, I can get the value of the text field. I couldn't get the get request working for listening every result. Hopefully tomorrow.
+
+⌚ 1.5hrs
+
+### R1D24
+
+Only 30 minutes left in the pluralsight js beginner course. It's very helpful. Beside that I worked on the wiki viewer - finally the ajax request works and I only have to show the results on the page. Think it's easy to realize with a loop.
+
+⌚ 2hrs
+
+### R1D25
+
+Finished the pluralsight JS beginner part. Beside that I invested some time in the viewer. The loop is working, now I only have to show the results on the page instead of in the console.
+
+⌚ 2hrs
+
+### R1D26
+
+Finished the wikipedia viewer - finally everything is working. I'm not satisfied with the look of the results... but I'm not sure at the moment how to improve these boxes. Maybe in the future!
+
+⌚ 2.5hrs
+
+### R1D27
